@@ -2,9 +2,9 @@ Experimental code I've bodged together for importing some real world data into a
 
 <table border="0px">
  <tr>
-   <td><img src="https://github.com/sk-zk/test2345/blob/master/screenshot1.png"></td>
-   <td><img src="https://github.com/sk-zk/test2345/blob/master/screenshot2.png"></td>
-   <td><img src="https://github.com/sk-zk/test2345/blob/master/screenshot3.png"></td>
+   <td><img src="https://github.com/sk-zk/OsmProto/blob/master/screenshot1.png"></td>
+   <td><img src="https://github.com/sk-zk/OsmProto/blob/master/screenshot2.png"></td>
+   <td><img src="https://github.com/sk-zk/OsmProto/blob/master/screenshot3.png"></td>
   </tr>
 </table>
 
