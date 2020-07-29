@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OsmProto": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Documents\\bin\\Maperitive\\tiny.osm\" test2 \"D:\\Documents\\Euro Truck Simulator 2\\mod\""
+    }
+  }
+}

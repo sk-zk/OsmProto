@@ -1,0 +1,11 @@
+material : "eut2.dif.spec.weight"
+{
+	texture : "(FILL IN).tobj"
+	texture_name : "texture_base"
+	substance : "dirt"
+	aux[0] : { 128, 128 }
+	aux[2] : { 78, 86, 57, 16 }
+	
+	specular : { 0, 0, 0 }
+	shininess : 0
+}
